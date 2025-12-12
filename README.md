@@ -68,7 +68,7 @@ int main() {
       <br>C++
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=rails" width="55" height="55" alt="rails" />
+      <img src="[https://skillicons.dev/icons?i=rails](https://e7.pngegg.com/pngimages/520/669/png-clipart-c-logo-c-programming-language-computer-icons-computer-programming-programming-miscellaneous-blue.png)" width="55" height="55" alt="rails" />
       <br>Rails
     </td>
   </tr>
